@@ -167,7 +167,7 @@ Please, see [Z2Pack home](https://z2pack.greschd.ch/en/latest/index.html), or di
 the [Installation and setup information](https://z2pack.greschd.ch/en/latest/tutorial/installation.html).
 
 Then, to run the example presented in this section, you need to download four big files from GitHub, 
-<https://github.com/abinit/abinit_assets/tree/main/tests/tutoplugs/Input/results_tz2_3> ,
+<https://github.com/abinit/abinit_assets/tree/main/abinit_package/tests/tutoplugs/Input/results_tz2_3> ,
 and store them in the directory results_tz2_3, such that
 
     ls results_tz2_3
